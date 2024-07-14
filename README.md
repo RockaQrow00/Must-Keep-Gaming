@@ -17,5 +17,5 @@ Game build can be played by downloading [Must Keep Gaming.zip](https://github.co
 1. 当父亲开门走近床边时，未成功将平板电脑藏入被子中将判定为游戏失败并结束。
 2. 当玩家在平板游戏中未能成功跨越障碍，将判定为游戏失败并结束。
 
-**已知问题**
+**已知问题：**
 1. 当玩家已经游戏失败，游戏未能及时结束。
