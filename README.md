@@ -5,7 +5,7 @@ Game build can be played by downloading [Must Keep Gaming.zip](https://github.co
 该项目是由包括我在内的5名队友一同合作完成的。我将其上传到这里作为我的作品集之一展示，今后有可能会继续开发该项目。
 可通过下载 [Must Keep Gaming.zip](https://github.com/RockaQrow00/Must-Keep-Gaming/blob/main/Must%20Keep%20Gaming.zip) 并解压后运行其中的 **Must Keep Gaming.exe** 文件启动并试玩游戏。
 
-**游戏目标**
+**游戏目标：**
 在本游戏中，玩家将扮演一位熄灯后偷玩平板电脑的孩子，躲避父亲巡查的同时，尽可能的在平板电脑中的游戏里获得高分。
 
 **操作指南：**
